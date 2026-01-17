@@ -39,7 +39,7 @@ Alongside mobile development, I am currently exploring the fundamentals of **Art
 
 ---
 
-## Projects
+## Major Projects
 
 ### 📱 VyavsayPro – Business Management App for Indian MSMEs
 - Flutter-based mobile application
