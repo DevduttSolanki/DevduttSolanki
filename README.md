@@ -1,7 +1,6 @@
 ## Hi, I'm Devdutt 👋
 
-Flutter & Android Developer | Firebase  
-MCA Final Semester Student | AI/ML Intern (Edunet – IBM SkillBuild)
+Flutter & Android Developer | Firebase | Full stack Developer
 
 ---
 
