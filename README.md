@@ -1,16 +1,13 @@
 ## Hi, I'm Devdutt 👋
 
-Flutter & Android Developer | Firebase | Full stack Developer
+Flutter & Android Developer | Firebase | Full stack Developer 
+Freelance Software Developer | Learning AI Engineering
 
 ---
 
 ## About Me
 
-I am an MCA final semester student with hands-on experience in mobile application development using **Flutter** and **Android (Kotlin)**, backed by **Firebase** services.
-
-I have worked on real-world, project-based applications involving user authentication, role-based access, business workflows, and data-driven features.
-
-Alongside mobile development, I am currently exploring the fundamentals of **Artificial Intelligence and Machine Learning** through a structured internship under the **Edunet Foundation – IBM SkillBuild program**.
+Freelance software developer passionate about building useful software. Currently learning AI Engineering and contributing to projects while exploring modern development technologies.
 
 ---
 
@@ -52,15 +49,6 @@ Alongside mobile development, I am currently exploring the fundamentals of **Art
 
 ---
 
-## Currently Looking For
-
-- Mobile Application Development Internship  
-- Flutter / Android Intern roles  
-- India / Remote opportunities
-
----
-
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/<your-linkedin-username>
-- GitHub: https://github.com/DevduttSolanki
